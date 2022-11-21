@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Справочник грибника</string>
+    <string name="title">«Справочник грибника»</string>
+    <string name="autor">
+Разработчик приложения:
+Парада Сергей Сергеевич
+    </string>
+    <string name="run">Продолжить</string>
+    <string name="tasteless_mushrooms">Невкусные грибы</string>
+    <string name="false_mushrooms">Ложные грибы</string>
+    <string name="inedible_mushrooms">Несъедобные  сгрибы</string>
+    <string name="Mushrooms_in_the_garden">Грибы в огороде</string>
+    <string name="poisonous_mushrooms">Ядовитые грибы</string>
+    <string name="taste_category_1">1. вкусовая категория</string>
+    <string name="taste_category_2">2. вкусовая категория </string>
+    <string name="taste_category_edible_3">3. вкусовая категория съедобные </string>
+    <string name="taste_category_conditionally_edible_3">3. вкусовая категория условно съедобные</string>
+    <string name="taste_category_edible_4">4. вкусовая категория съедобные</string>
+    <string name="taste_category_conditionally_edible_4">4. вкусовая категория условно съедобные</string>
+    <string name="category">Категория грибов:</string>
+    <string name="i">1</string>
+    <string name="r">2</string>
+    <string name="t">3</string>
+    <string name="f">4</string>
+    <string name="h">5</string>
+    <string name="x">6</string>
+    <string name="b">7</string>
+    <string name="p">8</string>
+    <string name="n">9</string>
+    <string name="im">10</string>
+    <string name="a">11</string>
+    <string name="todof">TODO</string>
+
+</resources>
