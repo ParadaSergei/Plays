@@ -3,7 +3,7 @@
     <style name="Phon">
         <item name="android:background">@color/grey</item>
     </style>
-    <style name="s">
-
+    <style name="fon">
+<item name="android:background">@color/blue</item>
     </style>
 </resources>
