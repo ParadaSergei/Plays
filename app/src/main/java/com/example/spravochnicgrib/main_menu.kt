@@ -36,21 +36,33 @@ class main_menu : AppCompatActivity() {
         startActivity(intent)
     }
 
-    fun kat_1(view: View) {}
+    fun kat_1(view: View) {
+        val intent: Intent = Intent(this@main_menu,vkus_1::class.java)
+        startActivity(intent)
+    }
 
-    fun kat_2(view: View) {}
+    fun kat_3(view: View) {
+        val intent: Intent = Intent(this@main_menu,vkus3::class.java)
+        startActivity(intent)
+    }
 
-    fun kat_3(view: View) {}
+    fun falses(view: View) {
+        val intent: Intent = Intent(this@main_menu,lojnie_grib::class.java)
+        startActivity(intent)
+    }
 
-    fun kat_3_2(view: View) {}
+    fun ogorod(view: View) {
+        val intent: Intent = Intent(this@main_menu,ogorod::class.java)
+        startActivity(intent)
+    }
 
-    fun kat_4(view: View) {}
+    fun no_sedob(view: View) {
+        val intent: Intent = Intent(this@main_menu,not_edible::class.java)
+        startActivity(intent)
+    }
 
-    fun kat_4_2(view: View) {}
-
-    fun falses(view: View) {}
-
-    fun ogorod(view: View) {}
-
-    fun no_sedob(view: View) {}
+    fun kat_2(view: View) {
+        val intent: Intent = Intent(this@main_menu,vkus2::class.java)
+        startActivity(intent)
+    }
 }
