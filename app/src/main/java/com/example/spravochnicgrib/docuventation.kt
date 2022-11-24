@@ -5,7 +5,7 @@ import android.os.Bundle
 
 class docuventation : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
-        setTheme(R.style.fon)
+        setTheme(R.style.Theme_SpravochnicGrib)
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_docuventation)
     }

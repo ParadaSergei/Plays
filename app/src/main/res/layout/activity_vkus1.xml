@@ -13,8 +13,7 @@
     app:layout_constraintStart_toStartOf="parent"
     app:layout_constraintTop_toTopOf="parent"
     android:fillViewport="true"
-    android:background="@color/green"
-    >
+    android:background="@color/white_blue">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"

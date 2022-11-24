@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity() {
         }
         return super.onOptionsItemSelected(item)
     }
+
     fun proceed(view: View) {
         val intent:Intent = Intent(this@MainActivity,main_menu::class.java)
         startActivity(intent)

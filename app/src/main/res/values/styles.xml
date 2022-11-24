@@ -4,6 +4,6 @@
         <item name="android:background">@color/grey</item>
     </style>
     <style name="fon">
-<item name="android:background">@color/blue</item>
+<item name="android:background">@color/white_blue</item>
     </style>
 </resources>
